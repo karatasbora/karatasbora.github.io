@@ -8,27 +8,17 @@
 ## 📖 About Me
 I am a forward-thinking educator dedicated to strengthening the relationship between pedagogy and artificial intelligence. I specialize in developing AI-supported learning experiences and accessible digital content, guided by a human-centered design philosophy.
 
-With strong experience in full-stack educational tool development using React and the Gemini API, I work to create inclusive learning environments that foster critical thinking and global citizenship.
-
-## 🛠️ Tech Stack (This Website)
-This repository hosts my personal resume website, built with a focus on performance, accessibility, and SEO.
-
-* **Core:** Semantic HTML5, CSS3, Vanilla JavaScript
-* **Features:**
-    * Dark/Light Mode toggling
-    * Multi-language support (TR/EN)
-    * Print-optimized CSS (`print.css`)
-    * JSON-LD Structured Data for SEO
-
 ## 💼 Professional Experience
 
 ### Content Editor
-**Anadolu University · Learning Technologies R&D Unit** | *Hybrid* *Dec 2022 - Present* * Transform instructional materials into accessible interactive digital resources.
+**Anadolu University · Learning Technologies R&D Unit** | *Hybrid* *Dec 2022 - Present* 
+* Transform instructional materials into accessible interactive digital resources.
 * Integrate generative AI tools into editorial workflows to enhance efficiency and quality.
 * Collaborate with interdisciplinary teams to meet accessibility standards.
 
 ### English Teacher (Internship)
-**Ministry of National Education · Gülay Kanatlı Secondary School** | *On-site* *Sep 2025 - Dec 2025* * Implemented learner-centered curricula emphasizing 21st-century skills.
+**Ministry of National Education · Gülay Kanatlı Secondary School** | *On-site* *Sep 2025 - Dec 2025* 
+* Implemented learner-centered curricula emphasizing 21st-century skills.
 * Applied gamified classroom management strategies to increase engagement.
 
 ## 🚀 Featured Project
@@ -53,7 +43,3 @@ An innovative educational tool designed to autonomously produce CEFR-aligned wor
 | **Pedagogy & Design** | Instructional Design, TEFL, Universal Design, Accessibility, Gamification, Curriculum Development |
 | **Analysis** | Systems Thinking, Data Literacy |
 | **Languages** | Turkish (Native), English (C2), Portuguese (Basic) |
-
-## 📬 Contact
-* **Email:** [borakaratas@anadolu.edu.tr](mailto:borakaratas@anadolu.edu.tr)
-* **LinkedIn:** [linkedin.com/in/borakaratas](https://www.linkedin.com/in/borakaratas)
